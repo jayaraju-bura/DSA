@@ -142,7 +142,17 @@ public class Trie {
     
 }
 
-// the --- Present in trie
+// teach --- Present in trie
 // these --- Not present in trie
 // their --- Not present in trie
-// thaw --- Present in trie
+// at --- Present in trie
+// at --- Not present in trie
+// a
+// business
+// dont
+// like
+// school
+// secrets
+// teach
+// they
+// virgin
